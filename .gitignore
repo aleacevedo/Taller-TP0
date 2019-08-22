@@ -36,3 +36,4 @@
 
 # VS
 .vscode/
+.DS_Store
